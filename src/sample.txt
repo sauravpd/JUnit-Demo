@@ -1,2 +1,1 @@
-added test file.
-sample text file
+reverted the changes
