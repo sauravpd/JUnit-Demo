@@ -8,7 +8,11 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
-
+/**
+ * Parameterized example 
+ * @author saurav
+ *
+ */
 @RunWith(Parameterized.class)
 public class ParameterizedTest 
 {
